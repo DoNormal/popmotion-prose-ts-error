@@ -1,0 +1,20 @@
+{
+  "name": "popmotion-prose-ts-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "popmotion-pose": "^1.0.25"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.5.0",
+    "source-map-loader": "^0.2.3",
+    "typescript": "^2.8.1",
+    "webpack": "^2.6.1"
+  }
+}
